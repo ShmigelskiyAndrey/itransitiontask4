@@ -1,0 +1,9 @@
+.tabs + :global(.tab-content){
+width: 100%;
+}
+
+.obertka {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+}
